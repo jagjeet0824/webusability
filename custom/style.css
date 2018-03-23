@@ -1,0 +1,106 @@
+body{
+ background-color: black;  
+  
+}
+
+
+#block4,p{
+color:white;
+text-align: center;
+padding-top: 1%;
+font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+#logo{
+    margin-bottom: 2%;  
+}
+
+#navigation{
+    float: right;
+    overflow: hidden;
+    background-color: #333;
+    
+}
+#navigation a {
+	text-decoration: none;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+    color: white;
+    background-color: black;
+    padding: 14px 16px;
+    
+}
+#navigation a:hover {
+    background-color: gray;
+    color: white;
+  }
+
+  #bestselling{
+      margin-top: 1%;
+  }
+
+#bestselling h3{
+    color: white;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    
+}
+
+#form{
+    color: white;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#Username{
+    margin-bottom: 1%;
+}
+
+#Email{
+    margin-bottom: 1%;
+}
+
+#Password{
+    margin-bottom: 1%;
+}
+
+#button{
+    margin-top: 3%;
+}
+
+#form h1{
+    text-align: center;
+}
+
+#btn{
+    float: right;
+    background-color: black ;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 36px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-right:15%;
+    margin-top:5%;
+}
+
+#btn:hover{
+    background-color: grey;
+}
+
+#container h4{
+    color:white;
+    font-family: 'Nanum Gothic', sans-serif;
+    float:right;
+    
+}
